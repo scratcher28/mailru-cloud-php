@@ -23,7 +23,7 @@ class Cloud
     const CLOUD_DOMAIN = 'https://cloud.mail.ru/api/v2';
     const FETCH_TOKEN_URL = 'https://cloud.mail.ru/api/v2/tokens/csrf';
     const UPLOAD_URL = 'https://cloclo3-upload.cloud.mail.ru/upload/';
-    const DOWNLOAD_URL = 'https://cloclo17.datacloudmail.ru/';
+    const DOWNLOAD_URL = 'https://cloclo20.datacloudmail.ru/';
 
     protected $client;
 
